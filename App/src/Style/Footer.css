@@ -1,0 +1,16 @@
+.footer {
+    background:rgb(34, 32, 32);
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .text-muted {
+    color: #6c757d;
+  }
+
+  .footer_text {
+    color: #fff;
+    margin:20px;
+  }
+  
